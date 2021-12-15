@@ -1,0 +1,2 @@
+C:\Users\Eldar\Documents\UNITY\Coursework\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\Eldar\Documents\UNITY\Coursework\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

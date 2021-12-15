@@ -1,0 +1,2 @@
+C:\Users\Eldar\Documents\UNITY\Coursework\obj\Debug\PathCreatorEditor.csproj.AssemblyReference.cache
+C:\Users\Eldar\Documents\UNITY\Coursework\obj\Debug\PathCreatorEditor.csproj.CoreCompileInputs.cache
