@@ -16,6 +16,7 @@ public class FlyingCar : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        target = GameObject.Find("Cylinder");
         cow = GameObject.Find("FloatingCow");
         if (cow)
         {
